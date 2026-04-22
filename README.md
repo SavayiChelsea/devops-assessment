@@ -119,7 +119,7 @@ production and needs to be immediately reversed without waiting for a new build.
 ## 3. Architecture Diagram
 
 ### Local Environment (Docker Compose)
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./Architecture.png)
 ---
 
 ## 4. Assumptions and Improvements
